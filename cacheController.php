@@ -1,6 +1,5 @@
 <?php
 	/**
-	*   Это третий адекватный класс на всех проектах
 	*	@category   Controllers
 	*	@package    Cache
 	*	@author     dev1lroot@protonmail.com
